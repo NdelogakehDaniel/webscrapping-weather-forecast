@@ -20,20 +20,20 @@ get weather-forecast informations
 NOTE: I'm open for any remarks or comments about the work but if
 love the work you can still tip me through the following contacts
 
-gmail: ndabosed@gmail.com
-whatsapp: +237 671 307 800
+gmail: ndabosed@gmail.com\n
+whatsapp: +237 671 307 800\n
 skype id: 
 ------------------------------------------------------------------
 
 
 
                                                               
-                                                              +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
-                                                                Thanks for downloading the project and visiting this 
-                                                                repository i'm open for job request and work on projects.
+                                       +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+                                         Thanks for downloading the project and visiting this 
+                                         repository i'm open for job request and work on projects.
                                                                 
-                                                                Have a glance of the project on this link:
-                                                                https://web-scrapping-weather-forecast.herokuapp.com/
-                                                               ************************************************************
+                                         Have a glance of the project on this link:
+                                         https://web-scrapping-weather-forecast.herokuapp.com/
+                                       ************************************************************
               
                                                             
