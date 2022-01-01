@@ -20,9 +20,9 @@ get weather-forecast informations
 NOTE: I'm open for any remarks or comments about the work but if
 love the work you can still tip me through the following contacts
 
-gmail: ndabosed@gmail.com\n
-whatsapp: +237 671 307 800\n
-skype id: 
+gmail: ndabosed@gmail.com
+whatsapp: +237 671 307 800
+Skype: https://join.skype.com/invite/DLqgPrTES7z2 #skpye username: Daniel Ndabose
 ------------------------------------------------------------------
 
 
