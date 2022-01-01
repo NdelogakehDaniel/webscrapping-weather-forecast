@@ -25,6 +25,9 @@ whatsapp: +237 671 307 800
 Skype: https://join.skype.com/invite/DLqgPrTES7z2 #skpye username: Daniel Ndabose
 ------------------------------------------------------------------
 
+Have a glance of the project on this link:
+                                     https://web-scrapping-weather-forecast.herokuapp.com/
+
 
 
                                                               
